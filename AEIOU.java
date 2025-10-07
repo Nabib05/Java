@@ -1,5 +1,3 @@
-package ALL;
-
 //WAP to enter a char and check that it is vowel or not
 
 import java.util.Scanner;
@@ -37,4 +35,5 @@ switch(ch)
     System.out.println("Its Consenent");
 }
     }
+
 }
